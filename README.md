@@ -1,4 +1,4 @@
-# LazyVim-C# & Razor LSPs
+# LazyVim - C# & Razor LSPs
 Configuration to use LazyVim together with roslyn and razor LSPs
 
 Based on: https://gist.github.com/navazjm/de072b46e4a203184dd647551502d6c8#file-csharp_lsp_nvim-md
